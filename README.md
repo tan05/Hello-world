@@ -1,2 +1,3 @@
 # Hello-world
-Just a test to start something...
+
+Hi there, this is a side project to start learning json and some other stuffs. let's see what can be done!
